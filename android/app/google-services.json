@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "30213329600",
+    "project_id": "gwale-19503",
+    "storage_bucket": "gwale-19503.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30213329600:android:ae096ba76e94cad9b2d325",
+        "android_client_info": {
+          "package_name": "com.sangam.gwale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30213329600-7pcub4044nd2pqsjrhjdk2n82edv99on.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sangam.gwale",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "30213329600-tbrehaaa2cnpsbvif3knmiaqefi7528t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOuIJEdYCafuwCXg-epzcUBEVr02wT4Ms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30213329600-tbrehaaa2cnpsbvif3knmiaqefi7528t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "30213329600-2b89cuffiiflpgoietamqq0otgn7oki1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sangam.gwale"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
